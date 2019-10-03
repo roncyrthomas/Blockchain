@@ -19,3 +19,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+# WHAT IS BLOCKCHAIN
+
+	A blockchain, originally block chain, is a growing list of records, called blocks, that are 	linked using cryptography. Each block contains a cryptographic hash of the previous block, a 	 timestamp, and transaction data (generally represented as a Merkle tree).
