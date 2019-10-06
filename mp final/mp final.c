@@ -751,8 +751,11 @@ int main() {
     char so;
     system("color 9");
     printf("\n                                                          Welcome                            \n\n\n");
-    printf("\n1.user login\n2.Miner\n3.New user\n4.Exit");
-    printf("\nPlease enter any options (1/2/3/4):");
+    printf("\n1.user login");
+    printf("\n 2.Miner");
+    printf("\n 3.New user");
+    printf("\n 4.Exit");
+    printf("\nPlease enter any options ( 1 / 2 / 3 / 4):");
     so = getch();
     switch (so) {
     case '1':
